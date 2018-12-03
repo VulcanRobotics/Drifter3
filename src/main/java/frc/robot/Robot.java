@@ -1,5 +1,9 @@
 //PGR 5:13
+<<<<<<< HEAD
 //Hi My name is Simon and I was here too
+=======
+//PGR 12/3
+>>>>>>> b4e0ab94d5e48d8938ca1b3c75ce6786838b91bc
 /* Copyright (c) 2017-2018 FIRST. All Rights Reserved.                        */
 /* Open Source Software - may be modified and shared by FRC teams. The code   */
 /* must be accompanied by the FIRST BSD license file in the root directory of */
@@ -14,7 +18,7 @@ import edu.wpi.first.wpilibj.smartdashboard.SendableChooser;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 
 import com.ctre.phoenix.motorcontrol.ControlMode;
-import com.ctre.phoenix.motorcontrol.can.TalonSRX;
+//import com.ctre.phoenix.motorcontrol.can.TalonSRX;
 import com.ctre.phoenix.motorcontrol.can.WPI_TalonSRX;
 import com.kauailabs.navx.frc.AHRS;
 //import com.kauailabs.navx.frc.AHRS.SerialDataType;
@@ -63,10 +67,7 @@ public class Robot extends IterativeRobot {
 */
 static final double kP = 0.03;
 
-//private static final String kDefaultAuto = "Default";
-//private static final String kCustomAuto = "My Auto";
-//private String m_autoSelected;
-//private SendableChooser<String> m_chooser = new SendableChooser<>();
+
 private WPI_TalonSRX LeftDrive1;
 private WPI_TalonSRX LeftDrive2;
 private WPI_TalonSRX LeftDrive3;

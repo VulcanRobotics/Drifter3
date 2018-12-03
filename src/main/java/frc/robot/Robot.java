@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 //Hi, Amy is here.
+//Hi its Dom
 =======
 //Hi My name is Simon and I was here too
 >>>>>>> 1e918ebb2edf5a80811c1fec51412b56c8d06d8b

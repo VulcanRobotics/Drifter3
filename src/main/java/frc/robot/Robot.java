@@ -1,7 +1,11 @@
 //Hi, Brian was here..
 //PGR 5:13
 <<<<<<< HEAD
+<<<<<<< HEAD
 //Hi, Amy is here.
+=======
+//Hi My name is Simon and I was here too
+>>>>>>> 1e918ebb2edf5a80811c1fec51412b56c8d06d8b
 =======
 //PGR 12/3
 >>>>>>> b4e0ab94d5e48d8938ca1b3c75ce6786838b91bc
